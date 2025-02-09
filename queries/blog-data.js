@@ -79,4 +79,6 @@ export const getPost = async (slug) => {
     `,
     { slug: slug }
   );
+
+  return data.publication.post
 };

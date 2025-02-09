@@ -80,3 +80,6 @@ query postDetails{
     
 }
 ```
+
+# Work in Fronetend
+- install `react-icons` package
